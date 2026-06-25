@@ -1,0 +1,6 @@
+{
+  "name": "Penjana Laporan Rasmi",
+  "description": "Aplikasi penjanaan laporan rasmi mengikut format polis dan pentadbiran, lengkap dengan penyusunan VIP, senarai aturcara, dan ulasan pintar dijana AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
